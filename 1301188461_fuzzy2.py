@@ -3,7 +3,8 @@
 
 # In[95]:
 
-#MODIFIKASI
+#MODIFIKASIreverse neeh
+#modifikasi test baru ya
 
 #import
 import csv 
