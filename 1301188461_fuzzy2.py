@@ -9,6 +9,9 @@
 #import
 import csv 
 
+
+#ini yang paling baru sih
+
 #open csv
 f = open('fuzzy\DataTugas2.csv')
 data = csv.reader(f)
